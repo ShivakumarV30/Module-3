@@ -24,8 +24,8 @@ To write a Python function that accepts a number **N** and creates a list contai
 ### PROGRAM
 
 ```python
-#Reg N0-212222060224
-#Name- SANTHOSH M J
+#Reg N0-212222060239
+#Name- SHIVAKUMAR K V
 
 l=eval(input())
 sum=1
